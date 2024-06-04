@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d74e000e-fcff-4a5b-bfdf-550b20ff58fc" name="Changes" comment="First_Commit">
+      <change afterPath="$PROJECT_DIR$/api_demo.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ssindhu14&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ssindhu14/API_DEMO.git&quot;,
+    &quot;accountId&quot;: &quot;0daccccc-5a2e-429f-908b-c3511bc462e4&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2hFOsDugp5eKYDeHkPBzOVJE7wi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.All.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Billing_Inquiry_Oasis_TCs.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Billing_Inquiry_Point_TCs.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/ssethrabalan/IdeaProjects/API_AUTOMATION_FRAMEWORK/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GCP_SF_User_TCs.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GcpAddress_API.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SF_Policy_Tcs.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ssethrabalan/IdeaProjects/API_CTL_ALT_DEFEAT&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ssethrabalan\IdeaProjects\API_AUTOMATION_FRAMEWORK\src\test\java" />
+      <recent name="C:\Users\ssethrabalan\IdeaProjects\API_AUTOMATION_FRAMEWORK\src\test" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="All" type="TestNG">
+      <module name="API" />
+      <shortenClasspath name="NONE" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d74e000e-fcff-4a5b-bfdf-550b20ff58fc" name="Changes" comment="" />
+      <created>1717186563215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717186563215</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First_Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First_Commit" />
+  </component>
+</project>

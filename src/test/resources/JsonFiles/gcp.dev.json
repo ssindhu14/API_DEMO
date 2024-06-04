@@ -1,0 +1,5 @@
+{
+  "gcp_address": "https://website-dev.gcp.magmutual.com/gcp-salesforce-address-api/",
+  "gcp_policy": "https://website-dev.gcp.magmutual.com/v6/policies/",
+  "gcp_user": "https://website-dev.gcp.magmutual.com/gcp-salesforce-user-api/"
+}
